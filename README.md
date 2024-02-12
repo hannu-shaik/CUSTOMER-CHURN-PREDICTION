@@ -44,3 +44,12 @@ Each section contributes to the overall process of loading data, preparing it fo
 
 
 
+
+
+
+![image](https://github.com/hannu-shaik/CUSTOMER-CHURN-PREDICTION/assets/140539636/1429ee39-90b4-42a0-b994-6a3a2c71b5da)
+
+
+
+
+
